@@ -14,6 +14,10 @@ I have been able to<details>
                      ~~5-~~ to name a few
                      </details>
   # Wish to know [*more ?*](https://www.eddiejaoude.io/course-github-profile-landing?r_done=1) 
+  
+  <img 
+   src="https://github-readme-stats.vercel.app/api?username=william-Nyarash&show_icons=true&theme=tokyonight" 
+/>
 <!-- 👋 Hi, I’m @William-nyarash 
 - 👀 I’m interested in  AI and web application.
 - 🌱 I’m currently learning html,css,python and c programming languages.
