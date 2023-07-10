@@ -3,17 +3,13 @@
 
  ![phofilephoto (2)](https://github.com/William-nyarash/mypage/assets/114805151/6b07e089-6698-4153-aa20-78e72aff0b1f)  
 # William's Bio
-Hello everyone, my name is **William Nyaranga**. I am currently living in **Kenya**, I have been privileged to be part of this *educative*   and *informative* journey. The *course* has really **impacted** me and I have developed the curious mind of trying new *tech* ideas.
+Hello everyone, my name is **William Nyaranga**. I am a web designer,a computer science student and  a AI enthusiasts.
+Currently I am learning python and javascript, I have a great understanding in C language,HTML and CSS.
+I am open to collaborate on **any** project.
+### feel free to contact [me](owetywilliamnyaranga@gmail.com)
  
-I have been able to<details>
-                         <summary>show more</summary>
-                       1- create a repository
-                       2- create a link using **markdown**
-                       3- Create  a table using **markdown**
-                       4- navigate through the different sections on ***GitHub*** 
-                     ~~5-~~ to name a few
-                     </details>
-  # Wish to know [*more ?*](https://www.eddiejaoude.io/course-github-profile-landing?r_done=1) 
+
+  # Wish to know [*more ?*](william-nyarash.github.io/william.github.io) 
   
   <img 
    src="https://github-readme-stats.vercel.app/api?username=william-Nyarash&show_icons=true&theme=tokyonight" 
