@@ -1,15 +1,15 @@
 ## Hello there friend 👋
 
 
- ![phofilephoto (2)](https://github.com/William-nyarash/mypage/assets/114805151/6b07e089-6698-4153-aa20-78e72aff0b1f)  
+ ![william's profile phote](https://github.com/William-nyarash/mypage/assets/114805151/6b07e089-6698-4153-aa20-78e72aff0b1f)  
 # William's Bio
 Hello everyone, my name is **William Nyaranga**. I am a web designer,a computer science student and  a AI enthusiasts.
 Currently I am learning python and javascript, I have a great understanding in C language,HTML and CSS.
 I am open to collaborate on **any** project.
-### feel free to contact [me](owetywilliamnyaranga@gmail.com)
+### feel free to contact [send me a mail](owetywilliamnyaranga@gmail.com)
  
 
-  # Wish to know [*more ?*](william-nyarash.github.io/william.github.io) 
+  # Wish to know [*more about me*](william-nyarash.github.io/william.github.io) 
   
   <img 
    src="https://github-readme-stats.vercel.app/api?username=william-Nyarash&show_icons=true&theme=tokyonight" 
