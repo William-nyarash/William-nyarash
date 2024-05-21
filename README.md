@@ -2,10 +2,34 @@
 
 
  ![william's profile phote](https://github.com/William-nyarash/mypage/assets/114805151/6b07e089-6698-4153-aa20-78e72aff0b1f)  
-# William's Bio
-Hello everyone, my name is **William Nyaranga**. I am a web designer,a computer science student and  a AI enthusiasts.
-Currently I am learning python and javascript, I have a great understanding in C language,HTML and CSS.
-I am open to collaborate on **any** project.
+# who am I ?
+Hello everyone, I'm **William Nyaranga**. A
+ - web designer
+ - a computer science student
+ -  a AI enthusiasts.
+
+   
+I'm open to collaborate with *`you`* .
+
+## achivements
+
+- joined the open source community
+- led the school It club activities
+  
+## `skill tool box`
+
+<img alt="data science" src="https://thumbs.dreamstime.com/b/data-science-logo-icon-design-vector-100675205.jpg" width="130">
+
+react
+
+nodejs
+
+python
+
+c++
+
+c
+
 ### feel free to contact [send me a mail](owetywilliamnyaranga@gmail.com)
  
 
