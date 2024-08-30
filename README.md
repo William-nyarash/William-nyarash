@@ -51,6 +51,10 @@ I'm open to collaborate with *`you`* .
 
 <a href="http://www.github.com/William-nyarash"><img src="https://streak-stats.demolab.com?user=William-nyarash&theme=python-dark&hide_border=true" alt="GitHub Streak" /></a>
 
+# Star History
+[![helsinki course](https://api.star-history.com/svg?repos=William-nyarash/fullStackOpen2023&type=Date)](https://star-history.com/#William-nyarash/repo1,William-nyarash/2&Date)
+
+
 
 <!-- 👋 Hi, I’m @William-nyarash 
 - 👀 I’m interested in  AI and web application.
