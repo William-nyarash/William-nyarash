@@ -7,14 +7,18 @@
 ## Hello there friend 👋
 
 
- ![william's profile phote](https://github.com/William-nyarash/mypage/assets/114805151/6b07e089-6698-4153-aa20-78e72aff0b1f")  
+<img alt="william's profile photo" 
+     src="https://github.com/William-nyarash/mypage/assets/114805151/6b07e089-6698-4153-aa20-78e72aff0b1f" 
+     width="300px" 
+     style="border-radius:50%">
+  
 
  
 # who am I ?
 Hello everyone, I'm **William Nyaranga**.
- - web designer
- - a computer science student
- - a AI enthusiasts.
+ - `web designer`
+ - a `computer science` student
+ - `AI enthusiasts`.
 
    
 I'm open to collaborate with *`you`* .
@@ -51,8 +55,7 @@ I'm open to collaborate with *`you`* .
 
 <a href="http://www.github.com/William-nyarash"><img src="https://streak-stats.demolab.com?user=William-nyarash&theme=python-dark&hide_border=true" alt="GitHub Streak" /></a>
 
-# Star History
-[![helsinki course](https://api.star-history.com/svg?repos=William-nyarash/fullStackOpen2023&type=Date)](https://star-history.com/#William-nyarash/repo1,William-nyarash/2&Date)
+
 
 
 
