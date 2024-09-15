@@ -7,13 +7,6 @@
 ## Hello there friend 👋
 
 
-<img alt="william's profile photo" 
-     src="https://github.com/William-nyarash/mypage/assets/114805151/6b07e089-6698-4153-aa20-78e72aff0b1f" 
-     width="300px" 
-     style="border-radius:50%">
-  
-
- 
 # who am I ?
 Hello everyone, I'm **William Nyaranga**.
  - `web designer`
