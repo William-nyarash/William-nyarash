@@ -1,25 +1,16 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source-175x29.png
-)](https://github.com/firstcontributions/open-source-badges)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=103)](https://opensource.org/licenses/mit-license.php)
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-175x30.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-## Hello there friend 👋
-
-
-# who am I ?
-Hello everyone, I'm **William Nyaranga**.
- - `web designer`
+# I'm **William Nyaranga**.
+ - I can cook anything in `javascript`
  - a `computer science` student
  - `AI enthusiasts`.
 
-   
-I'm open to collaborate with *`you`* .
 
 ## achivements
 
 - joined the open source community
-- leader `I'tech club` 
+- `I'tech club` 
+- dropped out of `tutorial hell`
+- fulltime  `linux` user
+
   
 ## `skill tool box`
 <p>
@@ -42,7 +33,7 @@ I'm open to collaborate with *`you`* .
    src="https://github-readme-stats.vercel.app/api?username=william-Nyarash&show_icons=true&theme=tokyonight" 
 />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=William-nyarash&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/William-nyarash)
+[![trophy](https://github-profile-trophy.vercel.app/?username=william-Nyarash&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/william-Nyarash)
 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=william-Nyarash)](https://github.com/William-nyarash/github-readme-stats)
 
