@@ -10,6 +10,7 @@
 - `I'tech club` 
 - dropped out of `tutorial hell`
 - fulltime  `linux` user
+- distro hopper
 
   
 ## `skill tool box`
@@ -33,23 +34,6 @@
    src="https://github-readme-stats.vercel.app/api?username=william-Nyarash&show_icons=true&theme=tokyonight" 
 />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=william-Nyarash&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/william-Nyarash)
+## you've reached the end of your tour go do something constructive
 
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=william-Nyarash)](https://github.com/William-nyarash/github-readme-stats)
-
-<a href="http://www.github.com/William-nyarash"><img src="https://streak-stats.demolab.com?user=William-nyarash&theme=python-dark&hide_border=true" alt="GitHub Streak" /></a>
-
-
-
-
-
-<!-- 👋 Hi, I’m @William-nyarash 
-- 👀 I’m interested in  AI and web application.
-- 🌱 I’m currently learning html,css,python and c programming languages.
-- 💞️ I’m looking to collaborate on creating application to help in diagnosis and treatment of eye defects.
-- 📫 How to reach me via owetywilliamnyaranga@gmail.com.
-very soon I'll be launching something so be on the look out.
-
-William-nyarash/William-nyarash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
- -->
+aufweidersehen 👋🏿
