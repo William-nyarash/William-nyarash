@@ -1,7 +1,6 @@
 # I'm **William Nyaranga**.
  - I can cook anything in `javascript`
  - a `computer science` student
- - `AI enthusiasts`.
 
 
 ## achivements
