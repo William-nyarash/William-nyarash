@@ -1,38 +1,42 @@
-# I'm **William Nyaranga**.
- - I can cook anything in `javascript`
- - a `computer science` student
+# William Nyaranga
 
+DevOps-minded computer science student focused on infrastructure, automation, and reliable systems.
 
-## achivements
+I work with JavaScript and have hands-on experience with Vertex AI, Genkit, Docker, and Linux.
 
-- joined the open source community
-- `I'tech club` 
-- dropped out of `tutorial hell`
-- fulltime  `linux` user
-- distro hopper
+## Skills Matrix
 
-  
-## `skill tool box`
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="reactjs" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="mysql" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="python" /></a>
+| Area | Tools / Focus |
+| --- | --- |
+| Development | JavaScript |
+| AI Workflows | Vertex AI, Genkit |
+| Containers | Docker |
+| Systems | Linux, troubleshooting, environment setup |
+| Infrastructure Interest | DevOps, data centers, reliability |
+
+<p style="display:flex; gap:12px">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="24" height="24" /> 
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="24" height="24" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24" height="24" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="24" height="24" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="24" height="24" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="24" height="24" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="24" height="24" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="24" height="24" />
 </p>
 
-- exploring
-    <p>
-     <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-     </p>
-  # Stats
-  
-  <img 
-   src="https://github-readme-stats.vercel.app/api?username=william-Nyarash&show_icons=true&theme=tokyonight" 
-/>
+## Impact
 
-## you've reached the end of your tour go do something constructive
+- Built familiarity with AI-assisted development using Vertex AI and Genkit.
+- Use Docker to keep environments reproducible and easier to ship.
+- Work in Linux daily, which strengthens command-line fluency and systems thinking.
 
-aufweidersehen 👋🏿
+## What I’m Looking For
+
+I’m looking for DevOps and infrastructure opportunities where I can grow in automation, systems reliability, and data center operations.
+
+## Reach Me
+
+- GitHub: William-nyarash
